@@ -1,0 +1,6 @@
+@GroupCW_HostAddress = http://localhost:5086
+
+GET {{GroupCW_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
